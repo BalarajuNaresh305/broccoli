@@ -1,0 +1,12 @@
+Total 2 (delta 1), reused 0 (delta 0), pack-reused 0 (from 0)
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+remote:
+remote: Create a pull request for 'nandhu' on GitHub by visiting:
+remote:      https://github.com/BalarajuNaresh305/broccoli/pull/new/nandhu
+remote:
+To https://github.com/BalarajuNaresh305/broccoli.git
+ * [new branch]      nandhu -> nandhu
+branch 'nandhu' set up to track 'origin/nandhu'.
+[root@naresh dev-1]# git branch
+  master
+* nandhu
